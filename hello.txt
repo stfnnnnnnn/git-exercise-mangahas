@@ -1,0 +1,1 @@
+Hello, this is Karl Mangahas learning Git!
